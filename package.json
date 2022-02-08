@@ -14,11 +14,9 @@
   "category": "Text Rendering",
   "dependencies": {},
   "repository": {
-    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git",
+    "url": "https://github.com/0kk470/textmeshpro1.5.0"
     "type": "git",
-    "revision": "566533ce276c037e12da11289cf74105435084da"
   },
-  "upmCi": {
-    "footprint": "8d62c4695c0fb59a6beceae805f2755313221230"
-  }
 }
+
+
