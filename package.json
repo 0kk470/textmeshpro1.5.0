@@ -14,8 +14,8 @@
   "category": "Text Rendering",
   "dependencies": {},
   "repository": {
-    "url": "https://github.com/0kk470/textmeshpro1.5.0"
-    "type": "git",
+    "url": "https://github.com/0kk470/textmeshpro1.5.0.git",
+    "type": "git"
   },
 }
 
